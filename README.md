@@ -17,7 +17,7 @@ This project is currently in alpha stage and is not recommended for production u
 
 ## Architecture
 
-```
+````
                                                                                                        
                                  Entrypoints                                                           
                        │                             │                                                 
