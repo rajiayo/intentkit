@@ -137,6 +137,9 @@ We will support more models in the future.
 
 ## Integrations
 
+### Google
+.[Google integration]_(docs/Google.md)
+
 ### Twitter
 [Twitter Integration](docs/twitter.md)
 
